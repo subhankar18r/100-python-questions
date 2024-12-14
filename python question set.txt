@@ -1,0 +1,195 @@
+﻿1. Write a Python program to print "Hello World!" to the screen.
+
+2. Write a Python program to add two numbers.
+
+3. Write a Python program to find the square root of a number.
+
+4. Write a Python program to calculate the area of a triangle.
+
+5. Write a Python program to solve a quadratic equation.
+
+6. Write a Python program to swap two variables.
+
+7. Write a Python program to generate a random number.
+
+8. Write a Python program to convert kilometers to miles.
+
+9. Write a Python program to convert Celsius to Fahrenheit.
+
+10. Write a Python program to check if a number is positive, negative, or 0.
+
+11. Write a Python program to check if a number is odd or even.
+
+12. Write a Python program to check if a year is a leap year.
+
+13. Write a Python program to find the largest among three numbers.
+
+14. Write a Python program to check if a number is a prime number.
+
+15. Write a Python program to print all prime numbers in a given interval.
+
+16. Write a Python program to find the factorial of a number.
+
+17. Write a Python program to display the multiplication table of a number.
+
+18. Write a Python program to print the Fibonacci sequence up to a given number.
+
+19. Write a Python program to check if a number is an Armstrong number.
+
+20. Write a Python program to find all Armstrong numbers in a given interval.
+
+21. Write a Python program to find the sum of natural numbers up to a given number.
+
+22. Write a Python program to display powers of 2 using an anonymous function (lambda).
+
+23. Write a Python program to find numbers divisible by another number in a list.
+
+24. Write a Python program to convert a decimal number to binary, octal, and hexadecimal.
+
+25. Write a Python program to find the ASCII value of a character.
+
+26. Write a Python program to find the HCF (GCD) of two numbers.
+
+27. Write a Python program to find the LCM of two numbers.
+
+28. Write a Python program to find all factors of a number.
+
+29. Write a Python program to create a simple calculator.
+
+30. Write a Python program to shuffle a deck of cards.
+
+31. Write a Python program to display the calendar of a given month and year.
+
+32. Write a Python program to display the Fibonacci sequence using recursion.
+
+33. Write a Python program to find the sum of natural numbers using recursion.
+
+34. Write a Python program to find the factorial of a number using recursion.
+
+35. Write a Python program to convert a decimal number to binary using recursion.
+
+36. Write a Python program to add two matrices.
+
+37. Write a Python program to transpose a matrix.
+
+38. Write a Python program to multiply two matrices.
+
+39. Write a Python program to check whether a string is a palindrome.
+
+40. Write a Python program to remove punctuations from a string.
+
+41. Write a Python program to sort words in a string in alphabetical order.
+
+42. Write a Python program to illustrate different set operations.
+
+43. Write a Python program to count the number of each vowel in a string.
+
+44. Write a Python program to merge mail templates with placeholders.
+
+45. Write a Python program to find the size (resolution) of an image file.
+
+46. Write a Python program to find the hash of a file.
+
+47. Write a Python program to create pyramid patterns using loops.
+
+48. Write a Python program to merge two dictionaries.
+
+49. Write a Python program to safely create a nested directory.
+
+50. Write a Python program to access the index of a list using a for loop.
+
+51. Write a Python program to flatten a nested list.
+
+52. Write a Python program to slice lists.
+
+53. Write a Python program to iterate over a dictionary using a for loop.
+
+54. Write a Python program to sort a dictionary by its values.
+
+55. Write a Python program to check if a list is empty.
+
+56. Write a Python program to catch multiple exceptions in one line.
+
+57. Write a Python program to copy a file.
+
+58. Write a Python program to concatenate two lists.
+
+59. Write a Python program to check if a key is already present in a dictionary.
+
+60. Write a Python program to split a list into evenly sized chunks.
+
+61. Write a Python program to parse a string to a float or integer.
+
+62. Write a Python program to print colored text to the terminal.
+
+63. Write a Python program to convert a string to a datetime object.
+
+64. Write a Python program to get the last element of a list.
+
+65. Write a Python program to get a substring of a string.
+
+66. Write a Python program to print output without a newline.
+
+67. Write a Python program to read a file line by line into a list.
+
+68. Write a Python program to randomly select an element from a list.
+
+69. Write a Python program to check if a string represents a valid number (float).
+
+70. Write a Python program to count the occurrences of an item in a list.
+
+71. Write a Python program to append text to a file.
+
+72. Write a Python program to delete an element from a dictionary.
+
+73. Write a Python program to create a long multiline string.
+
+74. Write a Python program to extract the file extension from a file name.
+
+75. Write a Python program to measure the elapsed time for a code block.
+
+76. Write a Python program to get the class name of an instance.
+
+77. Write a Python program to convert two lists into a dictionary.
+
+78. Write a Python program to differentiate between type() and isinstance().
+
+79. Write a Python program to trim whitespace from a string.
+
+80. Write a Python program to get the file name from a file path.
+
+81. Write a Python program to represent enums using the enum module.
+
+82. Write a Python program to return multiple values from a function.
+
+83. Write a Python program to get the line count of a file.
+
+84. Write a Python program to find all files with the .txt extension inside a directory.
+
+85. Write a Python program to get the creation and modification dates of a file.
+
+86. Write a Python program to get the full path of the current working directory.
+
+87. Write a Python program to iterate through two lists in parallel.
+
+88. Write a Python program to check the file size.
+
+89. Write a Python program to reverse a number.
+
+90. Write a Python program to compute the power of a number.
+
+91. Write a Python program to count the number of digits in a number.
+
+92. Write a Python program to check if two strings are anagrams.
+
+93. Write a Python program to capitalize the first character of a string.
+
+94. Write a Python program to compute all the permutations of a string.
+
+95. Write a Python program to create a countdown timer.
+
+96. Write a Python program to count the occurrences of a character in a string.
+
+97. Write a Python program to remove duplicate elements from a list.
+
+98. Write a Python program to convert bytes to a string.
